@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "https://ihadparkinsons.blogspot.com/",
-    "currentPage": "index.html",
+    "currentPage": "ihadparkinsons.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,10 +39,10 @@
     "modified": "2018-12-26T17:18:16.378Z"
   },
   "pages": {
-    "index.html": {
+    "ihadparkinsons.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "index",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
